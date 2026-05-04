@@ -1,0 +1,144 @@
+ORDER-TO-CASH (O2C) POLICY
+
+1. ORDER PLACEMENT
+Customer orders can be placed via:
+- Online portal (preferred)
+  The primary channel for orders, providing real-time inventory checks and 
+  immediate confirmation.
+- Email: orders@company.com
+  Secondary channel for bulk orders or specialized requests that require 
+  manual review.
+- Phone: 1-800-ORDERS (business hours only)
+  Available for urgent inquiries or customers who prefer personal assistance 
+  during EST business hours.
+
+Order confirmation sent within 1 business hour.
+
+2. CREDIT CHECK
+All new customers undergo credit verification:
+- Orders <$5K: Automatic approval
+  Small orders are processed instantly to maintain high throughput for 
+  standard transactions.
+- Orders $5K-$50K: Credit team review (same day)
+  Mid-sized orders require a quick evaluation of the customer's payment 
+  history and creditworthiness.
+- Orders >$50K: Management approval required (1-2 days)
+  High-value orders undergo a rigorous risk assessment by the treasury or 
+  CFO's office.
+
+Existing customers: Annual credit review.
+
+3. ORDER FULFILLMENT
+Standard processing time: 2-3 business days
+Expedited shipping: +$50 fee, 1 business day
+
+Shipping carriers:
+- US domestic: FedEx, UPS
+  Reliable ground and air services for all fifty states and territories.
+- International: DHL, FedEx International
+  Specialized handling for cross-border logistics and customs clearance 
+  requirements.
+
+4. INVOICING
+Invoices generated upon shipment via email and customer portal.
+
+Invoice includes:
+- Order number
+  The unique reference ID linking the invoice to the customer's original 
+  purchase request.
+- Line items with unit prices
+  Detailed breakdown of each SKU shipped, including the quantity and the 
+  agreed price per unit.
+- Shipping charges
+  Transparency on logistics costs incurred based on the selected shipping 
+  method and destination.
+- Tax (if applicable)
+  Calculation of state or international taxes based on the shipping 
+  address and product type.
+- Payment terms
+  The specific timeline and methods by which the customer is expected 
+  half to settle the balance.
+
+5. PAYMENT TERMS
+- Net 30: Standard for approved customers
+  Thirty days from the invoice date to complete the payment for established 
+  and creditworthy accounts.
+- Net 15: For new customers (<6 months relationship)
+  Reduced terms for new partnerships to mitigate initial risk while 
+  building a transaction history.
+- COD: For orders exceeding credit limit
+  Cash on Delivery is required if the customer's outstanding balance 
+  surpasses their approved credit ceiling.
+
+Accepted payment methods:
+- Wire transfer (preferred)
+  Direct bank-to-bank transfer for fastest settlement and reconciliation.
+- ACH
+  Electronic clearing house payments for secure and low-cost transactions.
+- Credit card (3% processing fee)
+  Convenient payment option subject to a surcharge to cover processing 
+  and interchange costs.
+- Check (US only)
+  Standard physical checks accepted for domestic customers, subject to 
+  clearing delays.
+
+6. PAYMENT APPLICATION
+Payments applied to oldest invoices first.
+  A First-In-First-Out (FIFO) approach to ensure aging receivables are 
+  cleared systematically.
+Partial payments allocated proportionally across open invoices.
+  If the amount does not cover a full invoice, it is spread across 
+  outstanding balances to reduce overall exposure.
+
+7. COLLECTIONS PROCESS
+Day 0-30: No action (within terms)
+  Monitoring period while the invoice remains within its active and 
+  current status.
+Day 31-45: Automated reminder email
+  Gentle notification sent to the customer billing contact regarding 
+  overdue balances.
+Day 46-60: Collections team calls customer
+  Direct personal outreach to resolve potential payment delays or 
+  administrative errors.
+Day 61-75: Account placed on hold, escalation to CFO
+  Suspension of new orders until the balance is settled, with high-level 
+  management oversight.
+Day 76+: Potential legal action, debt collection agency
+  Final measure involving third-party intervention to recover persistent 
+  unpaid debts.
+
+8. RETURNS AND CREDITS
+Return policy: 30 days from delivery
+
+Return process:
+- Contact customer service: support@company.com
+  Initiate a return request by providing order details and the reason 
+  for the return.
+- Obtain RMA (Return Merchandise Authorization) number
+  A mandatory tracking ID that must be clearly marked on all return 
+  shipments for processing.
+- Ship back to warehouse address
+  Customer is responsible for return shipping costs unless the items 
+  are defective or incorrect.
+- Credit issued within 5 business days of receipt
+  A credit memo or refund will be processed once the items are inspected 
+  and restocked.
+
+Restocking fee: 15% for non-defective returns
+  A standard charge to cover the administrative and logistical costs of 
+  processing non-error returns.
+
+9. ACCOUNT STATEMENTS
+Sent monthly to: customer billing contact
+  A summary of all transactions, credits, and open balances for the 
+  preceding period.
+Available 24/7 on customer portal
+  Real-time access for customers to download statements and track 
+  payment history at their convenience.
+
+Statement inquiries: ar@company.com
+  Dedicated support for questions regarding invoice accuracy, 
+  payment application, or balance discrepancies.
+Response time: 1-2 business days
+  The accounts receivable team commits to addressing all statement-related 
+  questions promptly.

@@ -1,0 +1,109 @@
+PROCURE-TO-PAY (P2P) POLICY
+
+1. PURCHASE REQUISITION PROCESS
+All purchase requests exceeding $1,000 must be submitted through the procurement 
+system with:
+- Business justification
+  Provide a detailed explanation of why the purchase is necessary and how it 
+  aligns with department goals.
+- Budget code approval
+  Ensure the correct General Ledger (GL) account and cost center are selected 
+  to reflect accurate financial reporting.
+- Manager sign-off (Director level for >$10K)
+  Obtain digital approval from the relevant budget holder; expenditures above 
+  $10,000 require higher-level oversight from a Director or VP.
+
+Processing time: 2-3 business days for standard requests.
+
+2. VENDOR ONBOARDING
+New vendors must complete:
+- W-9 or W-8 form submission
+  Collect the appropriate tax identification documentation to ensure compliance 
+  with IRS reporting requirements.
+- Bank account verification
+  Verify banking details through a secure portal or direct contact to prevent 
+  fraudlent payment redirections.
+- Insurance certificate (COI) for service providers
+  Confirm that the vendor maintains adequate liability coverage as specified 
+  in the master service agreement.
+- Vendor master data entry in SAP
+  Create a unique vendor ID and input all relevant contact and payment details 
+  into the enterprise resource planning system.
+
+Typical onboarding time: 5-7 business days.
+
+3. PURCHASE PO CREATION
+POs are automatically generated after PR approval. Vendor receives PO via email 
+with:
+- Line item details
+  A comprehensive list of products or services including descriptions, 
+  quantities, and agreed-upon unit prices.
+- Delivery address
+  The specific physical location where goods should be shipped or where 
+  services are to be rendered.
+- Payment terms (Net 30 standard)
+  Clarification that payment will be disbursed 30 days after receipt of a 
+  valid invoice, unless otherwise negotiated.
+
+4. GOODS RECEIPT
+Upon delivery, receiving department must:
+- Verify quantity and quality
+  Inspect all packages for damage and cross-reference the packing slip against 
+  the original purchase order.
+- Create goods receipt in SAP within 24 hours
+  Log the delivery into the system immediately to trigger the three-way 
+  match process for invoice payment.
+- Report discrepancies to procurement
+  Immediately notify the purchasing team if there is a shortage, overage, or 
+  if the items do not meet specified standards.
+
+5. INVOICE PROCESSING
+Vendors submit invoices to: ap@company.com
+
+Required information:
+- PO number (mandatory)
+  All invoices must clearly display the valid 10-digit PO number to facilitate 
+  automated processing and matching.
+- Invoice date
+  The date the invoice was issued, which serves as the starting point for 
+  calculating the payment due date.
+- Line item details matching PO
+  Ensure that descriptions and prices perfectly align with the PO to avoid 
+  mismatches and payment delays.
+
+Processing time: 5-10 business days after goods receipt.
+
+6. PAYMENT TERMS
+- Net 30: Payment within 30 days of invoice date
+  This is the default term for all standard vendors, ensuring steady 
+  cash flow management for the company.
+- Net 60: For approved vendors only
+  Extended terms reserved for high-volume or strategic partners who have 
+  signed specific long-term contracts.
+- Early payment discount: 2% for payment within 10 days
+  An incentive offered to vendors who prefer faster liquidity in exchange 
+  for a small reduction in the total invoice amount.
+
+7. DISPUTE RESOLUTION
+For invoice disputes:
+- Contact procurement team: procurement@company.com
+  Send a formal inquiry to the centralized mailbox for tracking and 
+  accountability purposes.
+- Provide: PO number, invoice number, issue description
+  Include all relevant identifiers and a clear explanation of why the 
+  invoice is being contested.
+- Resolution SLA: 5 business days
+  The procurement team aims to investigate and provide a path to 
+  resolution within one business week.
+
+8. ESCALATION PROCESS
+Unresolved issues after 5 days:
+- Escalate to Procurement Manager
+  If the initial SLA is missed, the issue is elevated to leadership for 
+  immediate intervention.
+- CC: finance@company.com
+  Keep the finance department informed of any significant delays that 
+  might impact financial closing or vendor relations.
+- Include full transaction history
+  Provide an audit trail of all previous communications and actions taken 
+  to resolve the matter.

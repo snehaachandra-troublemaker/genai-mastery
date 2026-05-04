@@ -1,0 +1,158 @@
+CASH FLOW MANAGEMENT POLICY
+
+1. CASH COLLECTION TARGETS
+Monthly collection target: 95% of current receivables
+  Striving to collect nearly all invoices that fall due within the 
+  calendar month to maintain high liquidity.
+
+Key metrics:
+- DSO (Days Sales Outstanding): Target <35 days
+  The average number of days it takes for the company to collect 
+  payment after a sale has been made.
+- Collection effectiveness: >92%
+  A measure of the company's ability to collect accounts receivable 
+  from its customers during a specific period.
+- Bad debt: <1% of revenue
+  Minimizing the amount of receivables that are written off as 
+  uncollectible to protect the company's bottom line.
+
+2. PAYMENT PRIORITIZATION
+Outgoing payments prioritized as follows:
+1. Payroll (bi-weekly, non-negotiable)
+   Ensuring all employees are paid accurately and on time to 
+   maintain morale and legal compliance.
+2. Statutory payments (taxes, regulatory fees)
+   Meeting all local, state, and federal tax obligations to avoid 
+   penalties and interest charges.
+3. Critical vendors (sole source, strategic partners)
+   Paying essential suppliers whose goods or services are 
+   integral to continued business operations.
+4. Standard vendors (Net 30 terms)
+   Settling balances with general suppliers according to agreed-upon 
+   contractual timelines.
+5. Discretionary expenses
+   Allocating remaining funds to non-essential items such as 
+   travel, entertainment, and optional office upgrades.
+
+3. WORKING CAPITAL REQUIREMENTS
+Minimum cash balance: $500K operating buffer
+  The baseline amount of liquid funds kept on hand to cover 
+  unexpected expenses or short-term revenue dips.
+
+Cash forecasting:
+- Daily: Cash position review
+  Real-time monitoring of bank balances and pending transactions 
+  to manage day-to-day liquidity.
+- Weekly: 4-week rolling forecast
+  Short-term projection of anticipated inflows and outflows to 
+  plan for upcoming payroll and vendor cycles.
+- Monthly: 12-week detailed forecast
+  Medium-term financial planning to align cash resources with 
+  quarterly business objectives.
+- Quarterly: Annual forecast update
+  Long-range analysis to ensure the company's cash strategy 
+  supports its yearly growth and investment targets.
+
+4. VENDOR PAYMENT SCHEDULING
+Payments processed:
+- Tuesday and Thursday each week
+  Standardizing disbursement days to streamline accounting 
+  workflows and optimize bank communication.
+- Cut-off time: 2 PM EST day before processing
+  Deadlines for submitting and approving invoices to ensure they 
+  are included in the next scheduled payment run.
+- ACH payments: 2-day clearing
+  Electronic payments that typically take forty-eight hours to 
+  be reflected in the vendor's bank account.
+- Wire transfers: Same day (fee: $25)
+  Immediate funds transfer available for urgent payments, 
+  subject to a bank-mandated processing charge.
+
+5. EARLY PAYMENT DISCOUNTS
+Eligible for discounts if:
+- 2/10 Net 30: 2% discount for payment within 10 days
+  The standard incentive structure for capturing savings by 
+  accelerating the payment of vendor invoices.
+- Minimum invoice amount: $1,000
+  Restricting the administration of early payment discounts 
+  to higher-value transactions for maximum efficiency.
+- Approval required from Treasury
+  The central finance team must authorize the early release 
+  of funds based on current cash availability.
+
+Savings target: $50K annually through early payment discounts
+  An objective to reduce overall procurement costs by 
+  proactively managing the payment schedule.
+
+6. LATE PAYMENT FEES
+Applied to customer invoices:
+- Grace period: 5 days past due date
+  Allowing a short window after the deadline before late 
+  charges are officially calculated and applied.
+- Fee: 1.5% per month (18% APR) on outstanding balance
+  The interest rate charged on overdue amounts to compensate 
+  the company for the delay in cash receipt.
+- Communicated on invoice and statements
+  Ensuring transparency by clearly stating the late fee 
+  policy on all customer-facing financial documents.
+
+7. CREDIT LINE MANAGEMENT
+Revolving credit facility: $2M
+  Access to emergency funding to bridge period gaps between 
+  expenditures and revenue collection.
+- Usage triggers: Cash below $300K threshold
+  Automatic notification to tap into the credit line if 
+  liquid reserves fall below a safe operating level.
+- Interest rate: SOFR + 2.5%
+  The cost of borrowing calculated as a spread over the 
+  Secured Overnight Financing Rate reference index.
+- Review: Quarterly with CFO
+  Periodic evaluation of the credit facility's terms and 
+  usage to ensure it remains a cost-effective safety net.
+
+8. CASH SURPLUS INVESTMENT
+Cash exceeding $1M operating buffer:
+- Short-term investments: Treasury bills, money market
+  Parking excess capital in highly liquid and low-risk 
+  instruments to generate modest interest returns.
+- Approval: CFO
+  The Chief Financial Officer must sign off on any 
+  investment strategies involving corporate cash reserves.
+- Liquidity requirement: 30-day max maturity
+  Ensuring invested funds can be quickly converted back 
+  to cash if the business needs them within a month.
+
+9. CURRENCY RISK MANAGEMENT
+For international transactions >$100K:
+- Forward contracts to hedge FX risk
+  Financial instruments that lock in exchange rates for 
+  future dates to protect against currency volatility.
+- Approval: Treasury team
+  Specialized oversight required to manage complex derivative 
+  trades and ensure they meet risk parameters.
+- Review: Monthly
+  Regular assessment of hedging effectiveness and 
+  adjustments based on changing market conditions.
+
+10. REPORTING
+Weekly to CFO:
+- Cash position
+  A snapshot of total liquidity across all corporate bank 
+  accounts and investment platforms.
+- Collection performance
+  Analysis of actual receipts versus the weekly target 
+  and historical trends.
+- Aging analysis
+  A detailed breakdown of outstanding receivables categorized 
+  by how long they have been overdue.
+
+Monthly to Board:
+- Cash flow statement
+  A formal financial report summarizing the movement of 
+  cash in and out of the company for the period.
+- Variance analysis vs. forecast
+  Comparison of actual cash performance against projected 
+  values with explanations for significant deviations.
+- Key metrics dashboard
+  A visual summary of the most important cash flow performance 
+  indicators for executive-level review.
